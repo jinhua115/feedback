@@ -1,0 +1,7 @@
+[Microsoft.UI.Xaml.CustomAttributes.MUXPropertyChangedCallback(enable=true)]
+[Microsoft.UI.Xaml.CustomAttributes.MUXPropertyChangedCallbackMethodName(value="OnPropertyChanged")]
+[Windows.Foundation.Metadata.MarshalingBehavior(Windows.Foundation.Metadata.MarshalingType.Agile)]
+[Windows.Foundation.Metadata.Threading(Windows.Foundation.Metadata.ThreadingModel.Both)]
+[Microsoft.UI.Xaml.CustomAttributes.MUXContractProperty(version=0)]
+[Windows.Foundation.Metadata.Version(1)]
+public class WebView2 : FrameworkElement
